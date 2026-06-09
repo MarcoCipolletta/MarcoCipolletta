@@ -116,7 +116,7 @@ Credo che questo mi aiuti anche nel lavoro da developer: ascoltare, capire il pr
 
 ## Contatti
 
-- Portfolio: marcocipolletta.it
+- Portfolio: www.marcocipolletta.it
 - LinkedIn: www.linkedin.com/in/marco-cipolletta
 - Email: marcocipolletta1998@gmail.com
 
